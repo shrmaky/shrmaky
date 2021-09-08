@@ -3,8 +3,7 @@
 I am a Software Engineer, experience building scalable mobile and web applications. Collaborated with cross-functional teams to define, design, and ship new features from start to end.
   
 <p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrmaky)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrmaky&background=FFFFFF&theme=graywhite&fire=e25822" />
   
 </br> 
 <p align="center">
